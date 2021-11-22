@@ -115,13 +115,13 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Minimal Slashing condition in Ethereum](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
 
 #### DPoS - Delegated Proof of Stake
-1.  [DPoS Introduction](https://bitshares.org/technology/delegated-proof-of-stake-consensus) Introduction to DPoS by Bitshares
+1.  [DPoS Introduction](https://web.archive.org/web/20200427112925/https://bitshares.org/technology/delegated-proof-of-stake-consensus/) Introduction to DPoS by Bitshares
 1.  [DPoS vs PoW](https://bytemaster.github.io/bitshares/2015/01/04/Delegated-Proof-of-Stake-vs-Proof-of-Work/) Article by Daniel Larimer from Bitshares
 1.  [Tendermint BFT vs. EOS dPoS](https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b) by Tendermint
 1.  [Seeking Consensus on Consensus](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem) Delegated Proof of Stake and the Two Generals' Problem
 
 #### dBFT - Delegated Byzantine Fault Tolerance
-1.  [Byzantine Fault Tolerance in Distributed Systems](https://sce.uhcl.edu/goodwin/Ceng5334/downLoads/byzantine.pdf) by Prof. Kenneth Goodwin
+1.  [Byzantine Fault Tolerance in Distributed Systems](https://sce.uhcl.edu/goodwin/Ceng5334/downLoads/byzantine.pdf) by Prof. Kenneth Goodwin (сертификат истек)
 1.  [dBFT vs PoW and PoS](https://www.econotimes.com/Blockchain-project-Antshares-explains-reasons-for-choosing-dBFT-over-PoW-and-PoS-659275) Antshare's (now NEO) views on consensus
 1.  [Intro to Ethermint BFT](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
 
@@ -131,17 +131,17 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Crypto Tokens: A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
 1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
 1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
-1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
+1.  [Smart-Contract Network Effect Fallacy](https://web.archive.org/web/20190226121235/https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
 
 ### Governance
 1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
-1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
+1.  [Governance and Network Effects](https://blog.aragon.org/thoughts-on-governance-and-network-effects-f40fda3e3f98/)
 1.  [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
 1.  [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
 1.  [On Public vs Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) by Vitalik Buterin
 
 ### Cryptoeconomic Security
-1.  [Intro to Cryptoeconomic security](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to cryptoeconomic security
+1.  [Intro to Cryptoeconomic security](https://medium.com/blockchain-at-berkeley/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to cryptoeconomic security
 1.  [Anti-fragile Cryptoeconomic systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128) Anti-fragile cryptoeconomic Systems
  through game theory
 1.  [Triangle of harm](https://vitalik.ca/general/2017/07/16/triangle_of_harm.html) by Vitalik Buterin
