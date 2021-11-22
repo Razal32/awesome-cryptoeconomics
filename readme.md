@@ -218,7 +218,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Empirical Cryptoeconomics
 1.  [How manipulation-resistant are Prediction Markets?](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
 1.  [Empirical Cryptoeconomics](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/) Vitalik Buterin's post on empirical cryptoeconomics
-1.  [Testing mechanism design with AI agents](https://incentivai.co/) Tool for Smart Contract testing with [concept paper](https://incentivai.co/incentivai_concept_paper_10032018.pdf) and [intro](https://medium.com/incentivai/introducing-incentivai-41ce8ba87152)
+1.  [Testing mechanism design with AI agents](https://incentivai.co/) Tool for Smart Contract testing [intro](https://medium.com/incentivai/introducing-incentivai-41ce8ba87152)
 
 
 ## Videos
@@ -227,7 +227,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Intro to Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floersch presenting Ethereum's Casper PoS
 1.  [PoS roundtable](https://www.youtube.com/watch?v=1tdxPzQt4ZI) PoS roundtable with Joseph Poon, Vitalik Buterin, Vlad Zamfir, Dominic Williams, Zack Hess at Cryptoeconomicon 2015
 1.  [PoW roundtable](https://www.youtube.com/watch?v=sADoZx7Ar4A) PoW roundtable with Tim Swanson, Vitalik Buterin and Peter Todd at Cryptoeconomicon 2015
-1.  [Proof of Stake - Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU) and [presentation deck](https://vitalik.ca/files/technion2.pdf)
+1.  [Proof of Stake - Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU) and [presentation deck](https://web.archive.org/web/20171013150354/http://vitalik.ca:80/files/technion2.pdf)
 1.  [CESC2017 - Casper Proof of Stake](https://www.youtube.com/watch?v=ycF0WFHY5kc&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99&index=14)
 1.  [Hangout - Ethereum PoS: Casper FFG In Depth](https://www.youtube.com/watch?v=uQ3IqLDf-oo) and the
 [presentation](https://docs.google.com/presentation/d/1fqnjL-2TqXjhHx8k7HRX7eUYnDK83adnlCLLH8Bk054/edit#slide=id.g2758035b7d_0_0)
