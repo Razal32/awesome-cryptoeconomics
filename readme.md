@@ -162,7 +162,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Model of an internal PoW attacker](https://medium.com/@Vlad_Zamfir/simple-model-of-an-internal-pow-attacker-1a713cf00672) Vlad Zamfir's article on PoW attackers
 1.  [Cryptoeconomics and X-Risk researchers should listen to each other more](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b) Vitalik Buterin's article on how cryptoeconomics and existential risk researchers could apply blockchain technology in global coordination challenges
  [Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
-1.  [Presentation on most common attacks in Bitcoin](http://www.cs.columbia.edu/~fernando/classes/cryptopuc2016-01/AnalyzingBitcoinSecurity.pdf)
+1.  [Presentation on most common attacks in Bitcoin](https://web.archive.org/web/20170517144824/http://www.cs.columbia.edu:80/~fernando/classes/cryptopuc2016-01/AnalyzingBitcoinSecurity.pdf)
 1.  [51% Attack](https://en.bitcoin.it/wiki/Majority_attack) Bitcoin.it Wiki explanation
 1.  [Selfish Mining](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) a 25% attack against Bitcoin
 1.  [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack) as described in Wikipedia
@@ -184,7 +184,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) by Simon de la Rouviere
 1.  [Solving Price Discovery Of Non-Rivalrous Goods (with Curved Bonding)](https://medium.com/@simondlr/solving-price-discovery-of-non-rivalrous-goods-with-curved-bonding-27b2186d55d5) by Simon de la Rouviere
 1.  [Hashtag Markets](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
-1.  [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17)
+1.  [How to Make Bonding Curves for Continuous Token Models](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17?gi=c0d3d6a1e8d9)
 1.  [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by Billy Rennekamp
 
 ### Tokenomics
